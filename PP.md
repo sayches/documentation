@@ -1,276 +1,111 @@
-## Privacy Policy
-<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Last update: 23/03/2022</span></span></span></p>
+<h3>Privacy Policy</h3>
+
+<p>Last update: 23/04/2022</p>
 
 <hr />
-<table class="Table">
+<table class="f-s-12 table table-sm">
 	<thead>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Data</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Type</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Optional</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Required</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Linked to You</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Used to Track You</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Duration</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Purpose</span></strong></span></span></p>
-			</td>
+			<th scope="col">Data</th>
+			<th scope="col">Type</th>
+			<th scope="col">Optional</th>
+			<th scope="col">Required</th>
+			<th scope="col">Linked to You</th>
+			<th scope="col">Used to Track You</th>
+			<th scope="col">Duration</th>
+			<th scope="col">Purpose</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Cookies</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Identifiers</span><br />
-			<span style="font-size:10.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Necessary)</span></span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">1 Year and 2 Weeks</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">App Functionality</span></span></span></p>
-			</td>
+			<th scope="row">Cookies</th>
+			<td>Identifiers<br />
+			(Necessary)</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>1 Year and 2 Weeks</td>
+			<td>App Functionality</td>
 		</tr>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Images</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">User Content</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">User Content</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">App Functionality</span></span></span></p>
-			</td>
+			<th scope="row">Images</th>
+			<td>User Content</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>User Content</td>
+			<td>App Functionality</td>
 		</tr>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Email</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Contact Info</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Up to Deletion</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Advertisers: App Functionality &amp; KYC</span></span></span></p>
-			</td>
+			<th scope="row">Financial Info</th>
+			<td>Financial Info</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>N/A</td>
+			<td>App Functionality</td>
 		</tr>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Financial Info</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Financial Info</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">N/A</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">App Functionality</span></span></span></p>
-			</td>
+			<th scope="row">Images</th>
+			<td>User Content</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>Permanent</td>
+			<td>App Functionality</td>
 		</tr>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Images</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">User Content</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Permanent</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">App Functionality</span></span></span></p>
-			</td>
+			<th scope="row">Messages</th>
+			<td>User Content<br />
+			(Encrypted)</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>24 Hours</td>
+			<td>App Functionality</td>
 		</tr>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Messages</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">User Content</span><br />
-			<span style="font-size:10.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">(Encrypted)</span></span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">24 Hours</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">App Functionality</span></span></span></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Profile Info</span></strong></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Contact Info</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✕</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Up to Deletion or 12 Months If Inactive</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">App Functionality</span></span></span></p>
-			</td>
+			<th scope="row">Profile Info</th>
+			<td>Contact Info</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>Up to Deletion or 12 Months If Inactive</td>
+			<td>App Functionality</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<table class="Table">
+<table class="f-s-12 table table-sm">
 	<thead>
 		<tr>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">When?</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Where?</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Why?</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Change Without Notice</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">GDPR</span></strong></span></span></p>
-			</td>
-			<td>
-			<p style="text-align:center"><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><strong><span style="font-family:&quot;Times New Roman&quot;,serif">Law Enforcement Authorities</span></strong></span></span></p>
-			</td>
+			<th scope="col">When?</th>
+			<th scope="col">Where?</th>
+			<th scope="col">Why?</th>
+			<th scope="col">Change Without Notice</th>
+			<th scope="col">GDPR</th>
+			<th scope="col">Law Enforcement Authorities</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Install, Use, Browse or Participate in Our Services</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Third-Party Data Centres in London, United Kingdom</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">- Fulfil our Obligations<br />
-			- App Functionality</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Segoe UI Symbol&quot;,sans-serif">✓</span></span></span></p>
-			</td>
-			<td>
-			<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Disclose If the Court Orders</span></span></span></p>
-			</td>
+			<td>Install, Use, Browse or Participate in Our Services</td>
+			<td>Third-Party Data Centres in London, United Kingdom</td>
+			<td>- Fulfil our Obligations<br />
+			- App Functionality</td>
+			<td>✓</td>
+			<td>✓</td>
+			<td>Disclose If the Court Orders</td>
 		</tr>
 	</tbody>
 </table>
 
-<p><span style="font-size:12pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">- PP &amp; ToS are often too long to read, but it is important to understand what it contains. Your rights on the Internet depend on it. We believe PP &amp; ToS should be presented as clearly as contents of a food package. Most companies write terms for judges, when they should be written for their customers.<br />
+<p>- PP &amp; ToS are often too long to read, but it is important to understand what it contains. Your rights on the Internet depend on it. We believe PP &amp; ToS should be presented as clearly as contents of a food package. Most companies write terms for judges, when they should be written for their customers.<br />
 &ndash; App Functionality: Such as to authenticate the user, enable features, prevent fraud, implement security measures, ensure server up-time, improve scalability and performance, or perform customer support.<br />
-&ndash; Developer&rsquo;s Advertising or Marketing: Such as sending first-party marketing communications directly to the user.</span></span></span></p>
-
-<p>&nbsp;</p>
+&ndash; Developer&rsquo;s Advertising or Marketing: Such as sending first-party marketing communications directly to the user.</p>
