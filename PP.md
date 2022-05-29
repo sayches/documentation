@@ -1,6 +1,6 @@
 <h3>Privacy Policy</h3>
 
-<p>Last update: 23/04/2022</p>
+<p>Last update: 30/05/2022</p>
 
 <hr />
 <table class="f-s-12 table table-sm">
@@ -26,16 +26,6 @@
 			<td>✓</td>
 			<td>✕</td>
 			<td>1 Year and 2 Weeks</td>
-			<td>App Functionality</td>
-		</tr>
-		<tr>
-			<th scope="row">Images</th>
-			<td>User Content</td>
-			<td>✓</td>
-			<td>✕</td>
-			<td>✓</td>
-			<td>✕</td>
-			<td>User Content</td>
 			<td>App Functionality</td>
 		</tr>
 		<tr>
@@ -79,6 +69,16 @@
 			<td>Up to Deletion or 12 Months If Inactive</td>
 			<td>App Functionality</td>
 		</tr>
+		<tr>
+			<th scope="row">Posts</th>
+			<td>User Content</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>✓</td>
+			<td>✕</td>
+			<td>Permanent</td>
+			<td>App Functionality</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -106,6 +106,6 @@
 	</tbody>
 </table>
 
-<p>- PP &amp; ToS are often too long to read, but it is important to understand what it contains. Your rights on the Internet depend on it. We believe PP &amp; ToS should be presented as clearly as contents of a food package. Most companies write terms for judges, when they should be written for their customers.<br />
+<p class="f-s-11 text-justify text-secondary">- PP &amp; ToS are often too long to read, but it is important to understand what it contains. Your rights on the Internet depend on it. We believe PP &amp; ToS should be presented as clearly as contents of a food package. Most companies write terms for judges, when they should be written for their customers.<br />
 &ndash; App Functionality: Such as to authenticate the user, enable features, prevent fraud, implement security measures, ensure server up-time, improve scalability and performance, or perform customer support.<br />
 &ndash; Developer&rsquo;s Advertising or Marketing: Such as sending first-party marketing communications directly to the user.</p>
