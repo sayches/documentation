@@ -69,16 +69,6 @@
 			<td>Up to Deletion or 12 Months If Inactive</td>
 			<td>App Functionality</td>
 		</tr>
-		<tr>
-			<th scope="row">Posts</th>
-			<td>User Content</td>
-			<td>✓</td>
-			<td>✕</td>
-			<td>✓</td>
-			<td>✕</td>
-			<td>Permanent</td>
-			<td>App Functionality</td>
-		</tr>
 	</tbody>
 </table>
 
